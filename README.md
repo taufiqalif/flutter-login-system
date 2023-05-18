@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ![01.png](img/01.png)
 
-Berikut adalah penjelasan untuk kode yang telah disediakan sebelumnya:
+Berikut adalah penjelasan nya:
 
 1. Kode di atas adalah aplikasi Flutter dasar dengan dua layar, yaitu layar login dan layar setelah login.
 2. `MyApp` adalah widget utama yang mewarisi `StatelessWidget`.
