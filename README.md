@@ -18,7 +18,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # flutter-login-system
 
-![01.png](img/01.png)
+![01.png](img/01.png) ![02.png](img/02.png) ![03.png](img/03.png)
 
 Berikut adalah penjelasan nya:
 
